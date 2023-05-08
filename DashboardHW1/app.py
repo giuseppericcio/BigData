@@ -8,7 +8,7 @@ import wikipediaapi
 import os
 
 # ---- READ LOGO ----
-image = Image.open("./img/logo_bianco.png")
+image = Image.open("img/logo_bianco.png")
 
 # ---- SETTINGS PAGE ----
 st.set_page_config(page_title="Dashboard Progetti UniNa", page_icon=image, layout="wide")
