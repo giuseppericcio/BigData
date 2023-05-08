@@ -17,7 +17,7 @@ st.set_page_config(page_title="Dashboard Progetti UniNa", page_icon=image, layou
 @st.cache_data
 def get_data_from_csv():
     # Directory contenente i file CSV
-    directory = './risultati'
+    directory = '/app/bigdata/DashboardHW1/risultati'
 
     # Dizionario per salvare i dataframe
     dfs = {}
