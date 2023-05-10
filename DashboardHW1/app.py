@@ -11,7 +11,7 @@ import os
 image = Image.open("/app/bigdata/DashboardHW1/img/logo_bianco.png")
 
 # ---- SETTINGS PAGE ----
-st.set_page_config(page_title="Dashboard Progetti UniNa", page_icon=image, layout="wide")
+st.set_page_config(page_title="Report Progetti UniNa", page_icon=image, layout="wide")
 
 # ---- READ CSV ----
 @st.cache_data
@@ -172,7 +172,7 @@ with lcol3:
 with rcol3:
     st.markdown("## Somma finanziata per i 5 dipartimenti con più progetti nella Federico II")
     fig = px.pie(dfs['Top5DipSommaProgetti'], values='Somma Finanziata (EUR)', names='Dipartimento')
-    fig.update_layout(yaxis={'categoryorder':'total ascending'})
+    fig.update_layout(margin=dict(t=0, b=0, l=0, r=0), yaxis={'categoryorder':'total ascending'})
 
     st.plotly_chart(fig, use_container_width=True)
     st.markdown('Nella Figura, vengono mostrate le somme finanziate tra i cinque dipartimenti universitari della Federico II con più progetti. La Figura evidenzia una \
