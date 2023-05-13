@@ -1,0 +1,10 @@
+Neurosciences,60,316032667
+Genetics,146,255874341
+Bioengineering,44,217362848
+Biotechnology,99,188532055
+Prevention,55,172584138
+Clinical Research,76,158073322
+Nutrition,34,102271921
+Human Genome,35,98437210
+Rare Diseases,72,88654024
+Digestive Diseases,41,76116470

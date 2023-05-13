@@ -1,0 +1,10 @@
+B12 Engineering,28
+B11 Computer Science and Informatics,14
+A01 Clinical Medicine,12
+A06 Agriculture, Veterinary and Food Science,11
+C14 Geography and Environmental Studies,10
+A03 Allied Health Professions, Dentistry, Nursing and Pharmacy,7
+C17 Business and Management Studies,6
+C13 Architecture, Built Environment and Planning,4
+B07 Earth Systems and Environmental Sciences,3
+A05 Biological Sciences,3

@@ -1,0 +1,85 @@
+32 Biomedical and Clinical Sciences,29903187,32
+31 Biological Sciences,15639113,25
+3211 Oncology and Carcinogenesis,15737406,17
+40 Engineering,172178921,16
+34 Chemical Sciences,7570303,10
+3101 Biochemistry and Cell Biology,2883287,9
+46 Information and Computing Sciences,165248297,7
+51 Physical Sciences,4676452,6
+33 Built Environment and Design,9864166,6
+44 Human Society,10151596,6
+30 Agricultural, Veterinary and Food Sciences,12516005,4
+3204 Immunology,,4
+3404 Medicinal and Biomolecular Chemistry,4322450,4
+37 Earth Sciences,6158550,4
+35 Commerce, Management, Tourism and Services,6329145,4
+43 History, Heritage and Archaeology,2634126,4
+4303 Historical Studies,2634126,4
+49 Mathematical Sciences,2905598,4
+4001 Aerospace Engineering,155164236,4
+3105 Genetics,1521624,4
+3102 Bioinformatics and Computational Biology,664837,3
+3008 Horticultural Production,8417333,3
+52 Psychology,2371385,3
+3107 Microbiology,2754140,3
+3302 Building,6240562,3
+3202 Clinical Sciences,744100,3
+41 Environmental Sciences,2077400,3
+3507 Strategy, Management and Organisational Behaviour,4771132,2
+5106 Nuclear and Plasma Physics,2045195,2
+3106 Industrial Biotechnology,1362999,2
+4602 Artificial Intelligence,1347064,2
+4003 Biomedical Engineering,4540999,2
+5202 Biological Psychology,1567610,2
+3207 Medical Microbiology,834030,2
+4901 Applied Mathematics,1344308,2
+48 Law and Legal Studies,4638065,2
+3208 Medical Physiology,818660,2
+42 Health Sciences,1142427,2
+4007 Control Engineering, Mechatronics and Robotics,602600,1
+5101 Astronomical Sciences,681527,1
+4105 Pollution and Contamination,731406,1
+3206 Medical Biotechnology,3482371,1
+4207 Sports Science and Exercise,366360,1
+4015 Maritime Engineering,643000,1
+3701 Atmospheric Sciences,604358,1
+3401 Analytical Chemistry,729663,1
+3709 Physical Geography and Environmental Geoscience,900000,1
+39 Education,615645,1
+5110 Synchrotrons and Accelerators,1346595,1
+38 Economics,616965,1
+4609 Information Systems,2631847,1
+4404 Development Studies,467384,1
+50 Philosophy and Religious Studies,803775,1
+3406 Physical Chemistry,580637,1
+3705 Geology,776666,1
+4005 Civil Engineering,781157,1
+3801 Applied Economics,616965,1
+5203 Clinical and Health Psychology,803775,1
+3502 Banking, Finance and Investment,658013,1
+4904 Pure Mathematics,817190,1
+5108 Quantum Physics,781019,1
+3904 Specialist Studies In Education,615645,1
+4406 Human Geography,7174252,1
+3803 Economic Theory,616965,1
+47 Language, Communication and Culture,636590,1
+3103 Ecology,562334,1
+3209 Neurosciences,2999999,1
+3108 Plant Biology,449799,1
+3006 Food Sciences,4098672,1
+4010 Engineering Practice and Education,602600,1
+3301 Architecture,653734,1
+3205 Medical Biochemistry and Metabolomics,681474,1
+5102 Atomic, Molecular and Optical Physics,781019,1
+4301 Archaeology,733197,1
+3403 Macromolecular and Materials Chemistry,624918,1
+4410 Sociology,580784,1
+4014 Manufacturing Engineering,614584,1
+4011 Environmental Engineering,3677560,1
+5104 Condensed Matter Physics,461357,1
+3407 Theoretical and Computational Chemistry,675681,1
+3304 Urban and Regional Planning,2367270,1
+4608 Human-Centred Computing,150000000,1
+3203 Dentistry,299490,1
+36 Creative Arts and Writing,733197,1
+4012 Fluid Mechanics and Thermal Engineering,48242712,1

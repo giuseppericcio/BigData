@@ -1,0 +1,10 @@
+32 Biomedical and Clinical Sciences,187
+40 Engineering,150
+31 Biological Sciences,143
+34 Chemical Sciences,78
+46 Information and Computing Sciences,68
+3101 Biochemistry and Cell Biology,52
+3211 Oncology and Carcinogenesis,46
+30 Agricultural, Veterinary and Food Sciences,45
+44 Human Society,40
+37 Earth Sciences,38

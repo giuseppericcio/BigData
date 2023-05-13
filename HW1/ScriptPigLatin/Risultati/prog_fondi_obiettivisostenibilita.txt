@@ -1,0 +1,16 @@
+7 Affordable and Clean Energy,82,311321685
+13 Climate Action,53,139135505
+11 Sustainable Cities and Communities,40,318092831
+3 Good Health and Well Being,34,98917877
+12 Responsible Consumption and Production,25,199551657
+16 Peace, Justice and Strong Institutions,23,7537352
+2 Zero Hunger,21,90328741
+4 Quality Education,15,15812081
+9 Industry, Innovation and Infrastructure,13,298867713
+10 Reduced Inequalities,9,4224395
+8 Decent Work and Economic Growth,9,10467178
+15 Life on Land,7,7203903
+6 Clean Water and Sanitation,4,5628593
+14 Life Below Water,4,6744462
+1 No Poverty,3,2291171
+5 Gender Equality,1,2200332

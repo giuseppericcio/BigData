@@ -1,0 +1,25 @@
+Thyroid Cancer,23
+Breast Cancer,22
+Liver Cancer,19
+Colon and Rectal Cancer,14
+Brain Tumor,8
+Stomach Cancer,8
+Leukemia / Leukaemia,7
+Lung Cancer,7
+Oral Cavity and Lip Cancer,7
+Esophageal / Oesophageal Cancer,6
+Pancreatic Cancer,5
+Skin Cancer,5
+Bladder Cancer,4
+Head and Neck Cancer,4
+Pituitary Tumor,4
+Gastrointestinal Tract,3
+Kidney Cancer,3
+Melanoma,3
+Nervous System,3
+Prostate Cancer,3
+Ear Cancer,2
+Laryngeal Cancer,2
+Nasal Cavity and Paranasal Sinus Cancer,2
+Neuroblastoma,2
+Pharyngeal Cancer,2
