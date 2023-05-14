@@ -2,7 +2,8 @@
 
 - _HW1_: Eseguire almeno 5 diverse :chart: **analytics** di tipo descrittivo sul dataset relativo ai progetti di ricerca della Federico II. Ogni analytics dovrà essere implementata attraverso **Pig**, **HIVE** e **PySpark** e presentata attraverso apposita reportistica.
 
-Nel **seguente repository** è possibile scaricare le analytics in :pig: **PIG**
+Nel **seguente repository** è possibile scaricare le analytics in :pig: **PIG** :arrow_right: [Qui](https://github.com/giuseppericcio/BigData/tree/main/HW1/ScriptPigLatin) 
+
 
 È possibile visualizzare le implementazioni e analytics fatte su PySpark e HIVE nei seguenti link:
 
