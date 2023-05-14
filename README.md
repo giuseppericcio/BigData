@@ -4,6 +4,8 @@
 
 Nel **seguente repository** è possibile scaricare le analytics in :pig: **PIG**
 
+È possibile visualizzare le implementazioni e analytics fatte su PySpark e HIVE nei seguenti link:
+
 ### Implementazione :sparkler: PySpark
 :notebook: Notebook **Colab** :arrow_right: [Vai](https://colab.research.google.com/drive/1lgeCpTdMp-aDPy4cMqcJuhbkXfrqDdHY)
 
