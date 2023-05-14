@@ -11,3 +11,9 @@ Nel **seguente repository** è possibile scaricare le analytics in :pig: **PIG**
 
 ### Implementazione :bee: HIVE
 :notebook_with_decorative_cover: Notebook **Hive** :arrow_right: [Vai]([https://colab.research.google.com/drive/1lgeCpTdMp-aDPy4cMqcJuhbkXfrqDdHY](https://shorturl.at/sKOS2))
+
+<hr>
+
+### Report finale
+
+:bookmark_tabs: È possibile inoltre visualizzare il **report completo** :arrow_right: [Vai](https://progettiunina.streamlit.app/)
