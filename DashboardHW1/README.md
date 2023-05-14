@@ -1,4 +1,4 @@
-## NOTE: Per l'esecuzione della dashboard
+## :warning: NOTE :warning:: Per l'esecuzione della dashboard
 
 - Eliminare la cartella "_unina_";
 - Aprire un terminale ed eseguire il comando "_python -m venv unina_";
