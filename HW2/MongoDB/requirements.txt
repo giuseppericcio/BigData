@@ -1,0 +1,11 @@
+pymongo
+pandas
+openpyxl
+openai
+streamlit
+hypecycle
+matplotlib
+nltk
+urllib3==1.26.1
+wordcloud
+bar_chart_race

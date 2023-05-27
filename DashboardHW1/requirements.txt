@@ -1,7 +1,0 @@
-openpyxl==3.0.10
-plotly==5.14.1
-pandas==1.4.3
-streamlit==1.22.0
-matplotlib==3.7.1
-wordcloud==1.9.1.1
-Wikipedia-API==0.5.8
