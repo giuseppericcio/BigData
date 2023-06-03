@@ -43,7 +43,7 @@ def downloadStopwords():
 st.cache_data()
 def connectMongo():
     ## CONNESSIONE A MONGO ATLAS
-    client = MongoClient('mongodb+srv://mickey121098:Ciao1234.@cluster0.dj6d5rw.mongodb.net/')
+    client = MongoClient(st.secrets.mongodb.client)
 
     db = client.dataset_unina_research
     research = db.research
