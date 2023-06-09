@@ -1,0 +1,104 @@
+{
+    "capoluoghi": [
+        {
+            "nome": "Aosta",
+            "latitudine": 45.7370,
+            "longitudine": 7.3150
+        },
+        {
+            "nome": "Torino",
+            "latitudine": 45.0705,
+            "longitudine": 7.6868
+        },
+        {
+            "nome": "Genova",
+            "latitudine": 44.4056,
+            "longitudine": 8.9463
+        },
+        {
+            "nome": "Milano",
+            "latitudine": 45.4642,
+            "longitudine": 9.1900
+        },
+        {
+            "nome": "Trento",
+            "latitudine": 46.0679,
+            "longitudine": 11.1211
+        },
+        {
+            "nome": "Venezia",
+            "latitudine": 45.4384,
+            "longitudine": 12.3277
+        },
+        {
+            "nome": "Trieste",
+            "latitudine": 45.6495,
+            "longitudine": 13.7768
+        },
+        {
+            "nome": "Bologna",
+            "latitudine": 44.4949,
+            "longitudine": 11.3426
+        },
+        {
+            "nome": "Firenze",
+            "latitudine": 43.7696,
+            "longitudine": 11.2558
+        },
+        {
+            "nome": "Ancona",
+            "latitudine": 43.6158,
+            "longitudine": 13.5189
+        },
+        {
+            "nome": "Perugia",
+            "latitudine": 43.1107,
+            "longitudine": 12.3896
+        },
+        {
+            "nome": "Roma",
+            "latitudine": 41.9028,
+            "longitudine": 12.4964
+        },
+        {
+            "nome": "Aquila",
+            "latitudine": 42.3505,
+            "longitudine": 13.3995
+        },
+        {
+            "nome": "Campobasso",
+            "latitudine": 41.5622,
+            "longitudine": 14.6696
+        },
+        {
+            "nome": "Napoli",
+            "latitudine": 40.8522,
+            "longitudine": 14.2681
+        },
+        {
+            "nome": "Bari",
+            "latitudine": 41.1171,
+            "longitudine": 16.8719
+        },
+        {
+            "nome": "Potenza",
+            "latitudine": 40.6443,
+            "longitudine": 15.8066
+        },
+        {
+            "nome": "Catanzaro",
+            "latitudine": 38.9053,
+            "longitudine": 16.5944
+        },
+        {
+            "nome": "Palermo",
+            "latitudine": 38.1157,
+            "longitudine": 13.3613
+        },
+        {
+            "nome": "Cagliari",
+            "latitudine": 39.2169,
+            "longitudine": 9.1129
+        }
+    ]
+}
