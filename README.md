@@ -11,7 +11,7 @@ Nel **seguente repository** è possibile scaricare le analytics in :pig: **PIG**
 :notebook: Notebook **Colab** :arrow_right: [Vai](https://colab.research.google.com/drive/1lgeCpTdMp-aDPy4cMqcJuhbkXfrqDdHY)
 
 ### Implementazione :bee: HIVE
-:notebook_with_decorative_cover: Notebook **Hive** :arrow_right: [Vai]([https://colab.research.google.com/drive/1lgeCpTdMp-aDPy4cMqcJuhbkXfrqDdHY](https://shorturl.at/sKOS2))
+:notebook_with_decorative_cover: Notebook **Hive** :arrow_right: [Vai](https://github.com/giuseppericcio/BigData/blob/main/HW1/Hive%20-%20Databricks/HW1_Hive.sql)
 
 <hr>
 
