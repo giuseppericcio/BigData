@@ -19,7 +19,7 @@ Nel **seguente repository** è possibile scaricare le analytics in :pig: **PIG**
 
 # BigData Homeworks 2: Analytics su Database NoSQL MongoDB e Neo4J - Analisi delle competenze e dei Topic trattati nel corso degli anni applicate su una raccolta di dati relative a tutte le ricerche della Federico II di Napoli
 
-- _HW2_: Sullo stesso dataset inerente ai progetti di ricerca della Federico II, vengono realizzate nuove :chart: **analytics** relative alla somma finanziata e ai topic/tematiche affrontate nei progetti di ricerca, visulizzando anche come queste variano negli anni. Per questo scopo, vengono utilizzati i database NoSQL **MongoDB** e **Neo4j**, ed il tutto è rappresentato nella dashboard aggiornata.
+- _HW2_: Sullo stesso dataset inerente ai progetti di ricerca della Federico II, vengono realizzate nuove :chart: **analytics** relative alla somma finanziata e ai topic/tematiche affrontate nei progetti di ricerca, visualizzando anche come queste variano negli anni. Per questo scopo, vengono utilizzati i database NoSQL **MongoDB** e **Neo4j**, ed il tutto è rappresentato nella dashboard aggiornata.
 
 ### Analytics 🍃 MongoDB
 📓 Notebook **MongoDB** ➡️ [Vai](https://github.com/giuseppericcio/BigData/blob/main/HW2/MongoDB/HW2-Mongo.ipynb)
