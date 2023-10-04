@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 import os
 
 # image
-image = Image.open("/app/bigdata/Dashboard/img/logo_blu.png")
+image = Image.open("Dashboard/img/logo_blu.png")
 
 # ---- SETTINGS PAGE ----
 st.set_page_config(page_title="Report Progetti UniNa", page_icon=image, layout="wide")
@@ -21,7 +21,7 @@ st.sidebar.caption(':bar_chart: Analytics in HIVE, Pig e PySpark di una raccolta
 @st.cache_data
 def get_data_from_csv():
     # Directory contenente i file CSV
-    directory = '/app/bigdata/Dashboard/risultati'
+    directory = 'Dashboard/risultati'
 
     # Dizionario per salvare i dataframe
     dfs = {}

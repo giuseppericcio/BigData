@@ -3,7 +3,7 @@ from PIL import Image
 import wikipediaapi
 
 # ---- READ LOGO ----
-image = Image.open("/app/bigdata/Dashboard/img/logo_blu.png")
+image = Image.open("Dashboard/img/logo_blu.png")
 
 # ---- SETTINGS PAGE ----
 st.set_page_config(page_title="Report Progetti UniNa", page_icon=image, layout="wide")

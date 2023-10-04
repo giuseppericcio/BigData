@@ -11,7 +11,7 @@ import nltk
 from nltk.corpus import stopwords
 
 # image
-image = Image.open("/app/bigdata/Dashboard/img/logo_blu.png")
+image = Image.open("Dashboard/img/logo_blu.png")
 
 # ---- SETTINGS PAGE ----
 st.set_page_config(page_title="Report Progetti UniNa", page_icon=image, layout="wide")
@@ -22,9 +22,9 @@ st.sidebar.header('Progetti e ricerche della Federico II')
 st.sidebar.caption(':bar_chart: Analytics in MongoDB e Neo4j di una raccolta di dati relative a tutte le ricerche della Federico II di Napoli')
 
 def openImage():
-    analytic1 = Image.open('/app/bigdata/Dashboard/img/Analytic1.png')
-    analytic2 = Image.open('/app/bigdata/Dashboard/img/Analytic2.png')
-    analytic8 = Image.open('/app/bigdata/Dashboard/img/Analytic8.png')
+    analytic1 = Image.open('Dashboard/img/Analytic1.png')
+    analytic2 = Image.open('Dashboard/img/Analytic2.png')
+    analytic8 = Image.open('Dashboard/img/Analytic8.png')
 
     return analytic1,analytic2,analytic8
 
@@ -315,13 +315,13 @@ fig.update_layout(yaxis={'categoryorder':'total ascending'})
 st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("### Variazione temporale (**per ogni anno**) del numero di progetti per ciascun Ambito di Ricerca specifico attraverso un **Bar Chart Race**.")
-video_file = open('/app/bigdata/Dashboard/filmati/ambitiricercaprogetti.mp4', 'rb')
+video_file = open('Dashboard/filmati/ambitiricercaprogetti.mp4', 'rb')
 video_bytes = video_file.read()
 
 st.video(video_bytes)
 
 st.markdown("### Variazione temporale (**per ogni anno**) della somma finanziata per ciascun Ambito di Ricerca specifico attraverso un **Bar Chart Race**.")
-video_file = open('/app/bigdata/Dashboard/filmati/ambitiricercasommafinanziata.mp4', 'rb')
+video_file = open('Dashboard/filmati/ambitiricercasommafinanziata.mp4', 'rb')
 video_bytes = video_file.read()
 
 st.video(video_bytes)
